@@ -1,6 +1,6 @@
 {
   "name": "render-when-focused",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prevent unnecessary rerenders in react-navigation",
   "main": "index.js",
   "scripts": {
