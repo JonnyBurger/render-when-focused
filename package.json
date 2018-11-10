@@ -1,0 +1,31 @@
+{
+  "name": "render-when-focused",
+  "version": "0.1.0",
+  "description": "Prevent unnecessary rerenders in react-navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyBurger/render-when-focused.git"
+  },
+  "keywords": [
+    "react-navigation",
+    "redux",
+    "react-native"
+  ],
+  "author": "Jonny Burger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonnyBurger/render-when-focused/issues"
+  },
+  "homepage": "https://github.com/JonnyBurger/render-when-focused#readme",
+  "dependencies": {
+    "hoist-non-react-statics": "^3.1.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-navigation": "*"
+  }
+}
