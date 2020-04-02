@@ -1,3 +1,7 @@
+⚠️ Update April 2020: Since React Navigation 5 uses a hook-based API, there is no more `componentShouldUpdate` anymore. I don't use this function anymore and it is not suported for React Navigation 5.
+
+---
+
 # render-when-focused
 
 A decorator function that will suspend a [react-navigation](https://www.npmjs.com/package/react-navigation) view while it's not visible, for example in a tab view or a stack navigator. Once the view becomes visible again, it gets re-rendered.
